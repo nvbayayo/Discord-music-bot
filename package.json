@@ -1,0 +1,18 @@
+{
+  "name": "limplimp-discord-music-bot",
+  "version": "1.0.0",
+  "description": "Anime-themed Discord YouTube Music bot",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.28.1",
+    "dotenv": "^16.4.7",
+    "lavalink-client": "^2.9.2"
+  }
+}
